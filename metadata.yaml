@@ -1,0 +1,42 @@
+_repo: A-Succinct-Account-of-the-Plague-at-MarseillesIts-Symptoms-and-the-Methods-and-Medicines-Used__31548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Soulier, Monsieur
+    alias: Soullier, Monsieur
+    gutenberg_agent_id: '35320'
+    url: http://www.gutenberg.org/2009/agents/35320
+  - agent_name: Verny, Monsieur, active 1720-1721
+    aliases:
+    - Verney, M.
+    - Verny, François
+    - Verny, Francois
+    - Verny, Jean
+    gutenberg_agent_id: '35319'
+    url: http://www.gutenberg.org/2009/agents/35319
+  - agent_name: Chicoyneau, François
+    alias: Chicoyneau, Francois
+    birthdate: 1672
+    deathdate: 1752
+    gutenberg_agent_id: '35318'
+    url: http://www.gutenberg.org/2009/agents/35318
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31548'
+  lccn: '34025566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plague -- France -- Marseille -- Early works to 1800'
+- !lcc 'RC'
+title: 'A Succinct Account of the Plague at Marseilles
+
+  Its Symptoms and the Methods and Medicines Used for Curing It'
+url: http://www.gutenberg.org/ebooks/31548
